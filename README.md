@@ -2,6 +2,10 @@
 Colección experimental creada por Anyelo (c00lkidd) que reúne ejecutables, scripts, mensajes ocultos y archivos con lore digital.
 Este pack mezcla caos controlado, humor, estética hacker y mini‑ARGs diseñados para sorprender, experimentar y jugar con la curiosidad del usuario.
 
+### 🎥 Video de prueba del VirusPack‑c00lkiddEdition
+
+[![Video del VirusPack](https://img.youtube.com/vi/Xzl2t6MLIQg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xzl2t6MLIQg)
+
 ## 📁 Contenido del repositorio
 end.exe
 Simula el cierre definitivo del pack.
